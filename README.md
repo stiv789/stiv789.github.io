@@ -1,7 +1,4 @@
-Stefan Panev Data Science Portfoio
-
-# Ken_Portfolio
-Example data science portfolio
+# Stefan Panev Data Science Portfoio
 
 # [Project 1: Interactive Probability Visualizations](https://github.com/datasciencesociety/Probability_Visualization) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
