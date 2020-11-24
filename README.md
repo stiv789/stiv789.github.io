@@ -8,9 +8,7 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2d
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
-![](pics/prob.png)
-
-<p align="center">
+<p align="right">
   <img src="pics/prob.png" width="700" height="600">
 </p>
 
