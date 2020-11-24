@@ -9,6 +9,8 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
 ![](pics/prob.png)
+
+
 ![](<img src="https://github.com/favicon.ico" height="24" width="48">)
 
 
