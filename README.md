@@ -9,7 +9,7 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
 <p align="left">
-  <img src="pics/prob.png" width="700" height="600">
+  <img src="pics/prob.png" width="600" height="500">
 </p>
 
 
@@ -23,5 +23,5 @@ Several visualizations and geographic maps have been used. Also hypothesis testi
 * Most of the people are subscribers, although the customers have a longer trip duration on average.
 
 <p align="left">
-  <img src="pics/bike.png" width="700" height="600">
+  <img src="pics/bike.jpg" width="600" height="500">
 </p>
