@@ -8,7 +8,7 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2d
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
-![](prob.png)
+![](pics/prob.png)
 
 
 # [Exploring-Bike-Rides-in-NYC 2020](https://github.com/datasciencesociety/Exploring-Bike-Rides-in-NYC/tree/master) 
@@ -19,4 +19,6 @@ Several visualizations and geographic maps have been used. Also hypothesis testi
 * The number and length of trips has increased during this month (although this is a very short period to draw any generalizations). There seems to be declines in the weekends and possibly some holidays like New Year.
 * Older people tend to have longer trip durations.
 * Most of the people are subscribers, although the customers have a longer trip duration on average.
+
+
 
