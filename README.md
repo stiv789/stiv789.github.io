@@ -23,5 +23,5 @@ Several visualizations and geographic maps have been used. Also hypothesis testi
 * Most of the people are subscribers, although the customers have a longer trip duration on average.
 
 <p align="left">
-  <img src="pics/bike.jpg" width="600" height="500">
+  <img src="pics/bike.jpg" width="500" height="500">
 </p>
