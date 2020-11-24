@@ -10,8 +10,11 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 
 ![](pics/prob.png)
 
+<img src="pics/prob.png" width="324" height="324">
 
-![](<img src="https://github.com/favicon.ico" height="24" width="48">)
+<p align="center">
+  <img src="screen1.png" width="256" height="455">
+</p>
 
 
 # [Exploring-Bike-Rides-in-NYC 2020](https://github.com/datasciencesociety/Exploring-Bike-Rides-in-NYC/tree/master) 
