@@ -8,7 +8,7 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2d
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
-<p align="right">
+<p align="left">
   <img src="pics/prob.png" width="700" height="600">
 </p>
 
@@ -22,5 +22,6 @@ Several visualizations and geographic maps have been used. Also hypothesis testi
 * Older people tend to have longer trip durations.
 * Most of the people are subscribers, although the customers have a longer trip duration on average.
 
-![](pics/bike.jpg)
-
+<p align="left">
+  <img src="pics/bike.png" width="700" height="600">
+</p>
