@@ -20,5 +20,5 @@ Several visualizations and geographic maps have been used. Also hypothesis testi
 * Older people tend to have longer trip durations.
 * Most of the people are subscribers, although the customers have a longer trip duration on average.
 
-
+![](pics/bike.jpg)
 
