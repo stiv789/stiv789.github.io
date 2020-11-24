@@ -10,10 +10,8 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 
 ![](pics/prob.png)
 
-<img src="pics/prob.png" width="324" height="324">
-
 <p align="center">
-  <img src="screen1.png" width="256" height="455">
+  <img src="pics/prob.png" width="900" height="1000">
 </p>
 
 
