@@ -8,7 +8,7 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2d
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
-![](pics/prob.png)
+![](pics/prob.png =250x250)
 
 
 # [Exploring-Bike-Rides-in-NYC 2020](https://github.com/datasciencesociety/Exploring-Bike-Rides-in-NYC/tree/master) 
