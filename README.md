@@ -11,7 +11,7 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 ![](pics/prob.png)
 
 <p align="center">
-  <img src="pics/prob.png" width="900" height="1000">
+  <img src="pics/prob.png" width="700" height="600">
 </p>
 
 
