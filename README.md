@@ -8,6 +8,8 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2d
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
+![Alt text](https://github.com/stiv789/stiv789.github.io/blob/main/prob.png)
+
 
 # [Exploring-Bike-Rides-in-NYC 2020](https://github.com/datasciencesociety/Exploring-Bike-Rides-in-NYC/tree/master) 
 This study was conducted on the first monthly data for bikes trips in New York City in 2018. Another dataset for the weather at that period was used. 
