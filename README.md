@@ -9,8 +9,12 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 * https://www.kaggle.com/stephen924/continuous-distributions-part-2e
 
 
-# [Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
-
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+# [Exploring-Bike-Rides-in-NYC 2020](https://github.com/datasciencesociety/Exploring-Bike-Rides-in-NYC/tree/master) 
+This study was conducted on the first monthly data for bikes trips in New York City in 2018. Another dataset for the weather at that period was used. 
+Several visualizations and geographic maps have been used. Also hypothesis testing has been performed. Here are some of the conclusion:
+* The correlations between the predictors and the dependent variable (the trip duration) are weak.
+* The study was left with some questions about the majority of the geographical coordinates for being in the ocean and not on land even though bikes are a terrestrial means of transport. This should be investigated further.
+* The number and length of trips has increased during this month (although this is a very short period to draw any generalizations). There seems to be declines in the weekends and possibly some holidays like New Year.
+* Older people tend to have longer trip durations.
+* Most of the people are subscribers, although the customers have a longer trip duration on average.
 
