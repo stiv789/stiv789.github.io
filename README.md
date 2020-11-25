@@ -2,7 +2,7 @@
 Generated several series A, B, C, D and E using random generator for normal, exponential, uniform and poisson distributions. Summing up the values and visualizing the results using Matplotlib and Plotly.
 
 <p align="left">
-  <img src="https://github.com/datasciencesociety/Pareto-Chart/blob/main/pareto.png" width="700" height="500">
+  <img src="pics/pareto.png" width="700" height="500">
 </p>
 
 # [Exploring-Bike-Rides-in-NYC 2020](https://github.com/datasciencesociety/Exploring-Bike-Rides-in-NYC/tree/master) 
