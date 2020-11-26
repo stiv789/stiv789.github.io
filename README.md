@@ -41,9 +41,16 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
   <img src="pics/prob.png" width="600" height="500">
 </p>
 
-# [Relationships Between Penstions and Health Status](https://github.com/datasciencesociety/Relationships_between_penstions_and_health_status/blob/main/Finding-Relationships-between-Pensions-Health-Status-and-Education-in-B....ipynb)
+# [Relationships Between Penstions and Health Status 2019](https://github.com/datasciencesociety/Relationships_between_penstions_and_health_status/blob/main/Finding-Relationships-between-Pensions-Health-Status-and-Education-in-B....ipynb)
 This aim of this project is to find any meaningful relationships between the level of education, the health status and the financial status of a sample of a survey of pensioners in Bulgaria. The data is provided by the World bank. One way, two way ANOVA as well as kruskal–wallis statistical non parametric test have been used. All the test show that there is a positive relationship between the variables and the pension levels. More work is needed to determine the strength and way of the relationship.
 
 <p align="left">
   <img src="pics/pension.png" width="600" height="500">
+</p>
+
+# [CO2-Prediction 2018](https://github.com/datasciencesociety/CO2-Prediction)
+The aim of this project is to predict monthly CO2 concentration in the atmosphere in ppm (particles per million). Several architectures of rnn (recurrent neural network) have been used. 3 types of networks have been displayed in 3 notebooks LSTM, GRU and stacked LSTM. The LSTM offers the closest predictions. This measures the concentration of CO2 in the atmosphere on a monthly basis from 1958 to present day. This is the greenhouse gas with the highest concentration that accounts for more then 80% of climate change. Other notable gases are methane, ozone, water vapour and nitrogen oxides, but even though they have a far larger warming potential, they have a significantly lower concentration in ppb (particles per billion) while CO2 is measured in ppm or particles per million., For more information on the subject check this link: [keeling curve](https://scripps.ucsd.edu/programs/keelingcurve/)
+
+<p align="left">
+  <img src="pics/c02.png" width="600" height="500">
 </p>
