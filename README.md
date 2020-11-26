@@ -40,3 +40,10 @@ Alternative links for the code with visualizations can be viewed at Kaggle:
 <p align="left">
   <img src="pics/prob.png" width="600" height="500">
 </p>
+
+# [Relationships Between Penstions and Health Status](https://github.com/datasciencesociety/Relationships_between_penstions_and_health_status/blob/main/Finding-Relationships-between-Pensions-Health-Status-and-Education-in-B....ipynb)
+This aim of this project is to find any meaningful relationships between the level of education, the health status and the financial status of a sample of a survey of pensioners in Bulgaria. The data is provided by the World bank. One way, two way ANOVA as well as kruskal–wallis statistical non parametric test have been used. All the test show that there is a positive relationship between the variables and the pension levels. More work is needed to determine the strength and way of the relationship.
+
+<p align="left">
+  <img src="pics/pension.png" width="600" height="500">
+</p>
