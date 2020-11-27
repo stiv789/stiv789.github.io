@@ -56,3 +56,12 @@ The aim of this project is to predict monthly CO2 concentration in the atmospher
 <p align="left">
   <img src="pics/carbon.png" width="600" height="500">
 </p>
+
+# [Food data exporation 2018](https://github.com/datasciencesociety/Exporing-Food-Data)
+This project is 3 parts, it tries to find if there are any connection between the products (names) and price, as well as existing patterns. This is set a-priori. When we do the exploration further question will arise. Some of the data will be removed as it will not be used. There will be plots, groupings and hypothesis testing via ANOVA to find potential connections. We should be careful with the path we take, it could lead us to a dead end. This may require starting the whole thing again almost from the start. Latly the food choices of different people are explored. All the data is provided by Kaggle.
+
+
+<p align="left">
+  <img src="pics/food.png" width="600" height="500">
+</p>
+
