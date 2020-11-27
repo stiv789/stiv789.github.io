@@ -4,14 +4,14 @@
 Generated several series A, B, C, D and E using random generator for normal, exponential, uniform and poisson distributions. Summing up the values and visualizing the results using Matplotlib and Plotly. Alternatively the notebook can be viewed at Kaggle [Kaggle-link](https://www.kaggle.com/stephen924/pareto-chart)
 
 <p align="left">
-  <img src="pics/pareto.png" width="700" height="500">
+  <img src="pics/pareto.png" width="600" height="500">
 </p>
 
 # [Summer-School-Research-Methods 2020](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/blob/master/case2/Financial%20Distress%20with%20Sklearn%20Division%20into%20categories%20of%20the%20target%20variable%20Part%203.ipynb) 
 This is my project as a participant in the Summer School of Research Methods organized by the FEBA (Faculty of Economics and Business Administration) at Sofia University. The second case was picked by the team. The financial distress data of companies was used. This is part of a Kaggle dataset which can be viewed in the following link: [dataset](https://www.kaggle.com/shebrahimi/financial-distress). Part 1 and Part 2 of the case was done by another teammate. The task is to explore the data and try different modeling techniques to explain the reasons for financial distress of different companies. Python and sklearn was used. No solid findings were found. There is a need of trying other methods. Later there is part 4 of the case where PyCaret or another low code machine learning library was used. The findings show that the library has significant discrepancies compared to sklearn which is a well-known mature library. The notebook can be viewed here: [PyCaret-Notebook](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/blob/master/case2/Financial%20Distress%20Division%20with%20PyCaret%20Part%204.ipynb)
 
 <p align="left">
-  <img src="pics/distress.png" width="700" height="500">
+  <img src="pics/distress.png" width="600" height="500">
 </p>
 
 
@@ -25,7 +25,7 @@ Several visualizations and geographic maps have been used. Also hypothesis testi
 * Most of the people are subscribers, although the customers have a longer trip duration on average.
 
 <p align="left">
-  <img src="pics/bike.jpg" width="500" height="500">
+  <img src="pics/bike.jpg" width="600" height="500">
 </p>
 
 
