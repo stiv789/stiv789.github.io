@@ -1,5 +1,7 @@
 ## Data Science Portfolio
 
+This is my personal data science portfolio. It host the projects I have created using Python ordered in a descending order by time of completion.
+
 # Table of contents
 1. [Pareto-Chart 2020](https://github.com/datasciencesociety/Pareto-Chart)
 2. [Some paragraph](#paragraph1)
