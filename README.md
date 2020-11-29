@@ -1,11 +1,17 @@
 ## Data Science Portfolio
 
-This is my personal data science portfolio. It host the projects I have created using Python ordered in a descending order by time of completion. There are links to the notebooks as well as a short description.
+This is my personal data science portfolio. It host the projects I have created using Python ordered in a descending order by time of completion. There are links to the notebooks as well as a short description. This inclued only projects that I have created working alone. Group project, praticipations in Datathons and other competitions are excluded.
 
 # Table of contents
 1. [Pareto-Chart 2020](#project1)
-2. [Some paragraph](#paragraph1)
-3. [Another paragraph](#paragraph2)
+2. [Summer-School-Research-Methods 2020](#project2)
+3. [Exploring-Bike-Rides-in-NYC 2020](#project3)
+4. [Interactive Probability Visualizations 2019](#project4)
+5. [Relationships Between Penstions and Health Status 2019](#project5)
+6. [CO2-Prediction 2018](#project6)
+7. [Food data exporation 2018](#project7)
+8. [Stochastic Processes 2018](#project8)
+9. [Predicting-Life-Expectancy 2018](#project9)
 
 ## [Pareto-Chart 2020](https://github.com/datasciencesociety/Pareto-Chart) 
 Generated several series A, B, C, D and E using random generator for normal, exponential, uniform and poisson distributions. Summing up the values and visualizing the results using Matplotlib and Plotly. Alternatively the notebook can be viewed at Kaggle [Kaggle-link](https://www.kaggle.com/stephen924/pareto-chart)
