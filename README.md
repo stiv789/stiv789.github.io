@@ -7,7 +7,7 @@ This is my personal data science portfolio. It host the projects I have created 
 2. [Some paragraph](#paragraph1)
 3. [Another paragraph](#paragraph2)
 
-# [Pareto-Chart 2020](https://github.com/datasciencesociety/Pareto-Chart) 
+## [Pareto-Chart 2020](https://github.com/datasciencesociety/Pareto-Chart) 
 Generated several series A, B, C, D and E using random generator for normal, exponential, uniform and poisson distributions. Summing up the values and visualizing the results using Matplotlib and Plotly. Alternatively the notebook can be viewed at Kaggle [Kaggle-link](https://www.kaggle.com/stephen924/pareto-chart)
 
 <p align="left">
